@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Новая папка (2)\homes\Skyblock\obj\Debug\Skyblock.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\homes\Skyblock\bin\Debug\Skyblock.exe.config
+C:\Users\user\Desktop\Новая папка (2)\homes\Skyblock\bin\Debug\Skyblock.exe
+C:\Users\user\Desktop\Новая папка (2)\homes\Skyblock\bin\Debug\Skyblock.pdb
+C:\Users\user\Desktop\Новая папка (2)\homes\Skyblock\obj\Debug\Skyblock.exe
+C:\Users\user\Desktop\Новая папка (2)\homes\Skyblock\obj\Debug\Skyblock.pdb

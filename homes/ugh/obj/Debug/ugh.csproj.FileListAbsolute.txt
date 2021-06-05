@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Новая папка (2)\homes\ugh\bin\Debug\ugh.exe.config
+C:\Users\user\Desktop\Новая папка (2)\homes\ugh\bin\Debug\ugh.exe
+C:\Users\user\Desktop\Новая папка (2)\homes\ugh\bin\Debug\ugh.pdb
+C:\Users\user\Desktop\Новая папка (2)\homes\ugh\obj\Debug\ugh.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (2)\homes\ugh\obj\Debug\ugh.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\homes\ugh\obj\Debug\ugh.exe
+C:\Users\user\Desktop\Новая папка (2)\homes\ugh\obj\Debug\ugh.pdb

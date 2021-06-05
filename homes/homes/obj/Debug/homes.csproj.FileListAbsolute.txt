@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Новая папка (2)\homes\homes\bin\Debug\homes.exe.config
+C:\Users\user\Desktop\Новая папка (2)\homes\homes\bin\Debug\homes.exe
+C:\Users\user\Desktop\Новая папка (2)\homes\homes\bin\Debug\homes.pdb
+C:\Users\user\Desktop\Новая папка (2)\homes\homes\obj\Debug\homes.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (2)\homes\homes\obj\Debug\homes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\homes\homes\obj\Debug\homes.exe
+C:\Users\user\Desktop\Новая папка (2)\homes\homes\obj\Debug\homes.pdb

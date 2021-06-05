@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Новая папка (2)\homes\oof\bin\Debug\oof.exe.config
+C:\Users\user\Desktop\Новая папка (2)\homes\oof\bin\Debug\oof.exe
+C:\Users\user\Desktop\Новая папка (2)\homes\oof\bin\Debug\oof.pdb
+C:\Users\user\Desktop\Новая папка (2)\homes\oof\obj\Debug\oof.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (2)\homes\oof\obj\Debug\oof.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\homes\oof\obj\Debug\oof.exe
+C:\Users\user\Desktop\Новая папка (2)\homes\oof\obj\Debug\oof.pdb

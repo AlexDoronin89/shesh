@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Новая папка (2)\homes\is\bin\Debug\@is.exe.config
+C:\Users\user\Desktop\Новая папка (2)\homes\is\bin\Debug\@is.exe
+C:\Users\user\Desktop\Новая папка (2)\homes\is\bin\Debug\@is.pdb
+C:\Users\user\Desktop\Новая папка (2)\homes\is\obj\Debug\is.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (2)\homes\is\obj\Debug\@is.exe
+C:\Users\user\Desktop\Новая папка (2)\homes\is\obj\Debug\@is.pdb
+C:\Users\user\Desktop\Новая папка (2)\homes\is\obj\Debug\is.csprojAssemblyReference.cache
